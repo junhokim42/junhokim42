@@ -2,15 +2,8 @@
   
     
 # Hi there 👋
-- 🔭 I’m currently working on some personal & team projects. (Check my repository:)
-- 🌱 I’m currently learning Bigdata analysis and Web service development
-- 👯 I’m looking to collaborate on good people and startup
-- 🤔 I’m looking for help with my teammates
-- 💬 Ask me about how to play Grass Whistle
-- 📫 How to reach me: Callme
-- 😄 Pronouns: Juno
-- ⚡ Fun fact: The fact that we are living at the same time
-  
+- 🔭 I’m Founder of ICU Company. We creat 'Korehalal Trip' service for Muslim travelers in Korea
+- 👯 We are looking for nice people who want to join in ICU Company
     
 # My currenct status
 ## Github stats
